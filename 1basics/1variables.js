@@ -1,7 +1,7 @@
 const accountId = 140704
 let accountEmail = "kits@google.com"
 var accountPassword = "12345"
-accountCity= "Delhi"
+accountCity = "Delhi"
 let accountState; 
 
 // accountId = 2 // not allowed
@@ -16,4 +16,6 @@ console.table([accountId, accountEmail, accountPassword, accountCity, accountSta
 
 /*
 prefer not to use var becoz of issue in block scope and functional scope
-/*
+*/
+
+
