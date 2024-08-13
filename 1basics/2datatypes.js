@@ -13,5 +13,5 @@ let isLoggedIN = false //boolean datatype  =>true/false
 // symbol- to find uniqueness, implementation in react when we build so many components.
 // object datatype
 
-console.log(typeof undefined);
-
+console.log(typeof undefined); //type
+console.log(typeof null); //object
